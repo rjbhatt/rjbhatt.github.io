@@ -37,27 +37,33 @@ app.controller('MainController', ['$scope', function($scope) {
     $scope.interests =
     [
         {
+            name: 'Enterprise Architect Intern  Seattle, WA',
+            text: 'May 2018 - August 2018',
+            link: 'https://drive.google.com/file/d/1JFQ_OVx63e2YdsP-81_G1fD9lrh0o5Qs/view?usp=sharing',
+            image: 'assets/img/Boeing.jpg'
+        },
+        {
             name: 'Software Engineering Intern  Seattle, WA (Headquarters)',
             text: 'June 2016 - August 2016',
-            link: 'https://drive.google.com/file/d/0B3KhqAYlTLsIWG1TUnlHcXduSjZGSTQyVi0xU1JkZFFRSEpv/view?usp=sharing',
+            link: 'https://drive.google.com/file/d/1JFQ_OVx63e2YdsP-81_G1fD9lrh0o5Qs/view?usp=sharing',
             image: 'assets/img/Nordstrom.jpg'
         },
         {
             name: 'Systems Engineering Co-op  Findlay, OH (Headquarters)',
             text: 'January 2016 - May 2016',
-            link: 'https://drive.google.com/file/d/0B3KhqAYlTLsIWG1TUnlHcXduSjZGSTQyVi0xU1JkZFFRSEpv/view?usp=sharing',
+            link: 'https://drive.google.com/file/d/1JFQ_OVx63e2YdsP-81_G1fD9lrh0o5Qs/view?usp=sharing',
             image: 'assets/img/MPC.png'
         },
         {
             name: 'Agile Business Analyst Intern   Detroit, MI (Headquarters)',
             text: 'September 2015 - December 2015',
-            link: 'https://drive.google.com/file/d/0B3KhqAYlTLsIWG1TUnlHcXduSjZGSTQyVi0xU1JkZFFRSEpv/view?usp=sharing',
+            link: 'https://drive.google.com/file/d/1JFQ_OVx63e2YdsP-81_G1fD9lrh0o5Qs/view?usp=sharing',
             image: 'assets/img/QL.jpg'
         },
         {
             name: 'IT Intern - VoIp Development Dearborn, MI',
             text: 'May 2015 - August 2015',
-            link: 'https://drive.google.com/file/d/0B3KhqAYlTLsIWG1TUnlHcXduSjZGSTQyVi0xU1JkZFFRSEpv/view?usp=sharing',
+            link: 'https://drive.google.com/file/d/1JFQ_OVx63e2YdsP-81_G1fD9lrh0o5Qs/view?usp=sharing',
             image: 'assets/img/ASG.jpeg'
         }
     ];
